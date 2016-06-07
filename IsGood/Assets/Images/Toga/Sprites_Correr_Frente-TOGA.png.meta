@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 061988994d9b32740b89b43eb59b1579
+timeCreated: 1465106189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Correr_Frente-TOGA_0
+    21300002: Sprites_Correr_Frente-TOGA_1
+    21300004: Sprites_Correr_Frente-TOGA_2
+    21300006: Sprites_Correr_Frente-TOGA_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Correr_Frente-TOGA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -225}
+        - {x: 62, y: -191}
+        - {x: 90, y: -175}
+        - {x: 104, y: -161}
+        - {x: 110, y: -130}
+        - {x: 107, y: -94}
+        - {x: 101, y: -60}
+        - {x: 133, y: -88}
+        - {x: 157, y: -82}
+        - {x: 160, y: -74}
+        - {x: 160, y: -62}
+        - {x: 102, y: 29}
+        - {x: 123, y: 62}
+        - {x: 127, y: 87}
+        - {x: 107, y: 189}
+        - {x: 94, y: 224}
+        - {x: 54, y: 247}
+        - {x: 32, y: 248}
+        - {x: -26, y: 248}
+        - {x: -58, y: 242}
+        - {x: -77, y: 232}
+        - {x: -100, y: 202}
+        - {x: -117, y: 128}
+        - {x: -125, y: 88}
+        - {x: -120, y: 62}
+        - {x: -94, y: 25}
+        - {x: -161, y: -58}
+        - {x: -161, y: -85}
+        - {x: -123, y: -88}
+        - {x: -101, y: -56}
+        - {x: -106, y: -128}
+        - {x: -104, y: -164}
+        - {x: -82, y: -184}
+        - {x: -98, y: -221}
+        - {x: -71, y: -253}
+        - {x: -36, y: -253}
+        - {x: -25, y: -249}
+        - {x: -18, y: -207}
+        - {x: -8, y: -180}
+        - {x: 1, y: -228}
+    - name: Sprites_Correr_Frente-TOGA_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: -183}
+        - {x: 92, y: -183}
+        - {x: 116, y: -134}
+        - {x: 102, y: -54}
+        - {x: 128, y: -82}
+        - {x: 134, y: -84}
+        - {x: 140, y: -85}
+        - {x: 151, y: -84}
+        - {x: 163, y: -76}
+        - {x: 163, y: -67}
+        - {x: 140, y: -32}
+        - {x: 101, y: 17}
+        - {x: 127, y: 70}
+        - {x: 129, y: 104}
+        - {x: 107, y: 207}
+        - {x: 85, y: 235}
+        - {x: 64, y: 243}
+        - {x: 43, y: 249}
+        - {x: -37, y: 249}
+        - {x: -74, y: 234}
+        - {x: -99, y: 198}
+        - {x: -119, y: 121}
+        - {x: -119, y: 56}
+        - {x: -88, y: 26}
+        - {x: -133, y: -25}
+        - {x: -161, y: -68}
+        - {x: -161, y: -78}
+        - {x: -142, y: -88}
+        - {x: -128, y: -85}
+        - {x: -100, y: -56}
+        - {x: -110, y: -123}
+        - {x: -107, y: -169}
+        - {x: -70, y: -181}
+        - {x: -71, y: -215}
+        - {x: -87, y: -247}
+        - {x: -69, y: -254}
+        - {x: -32, y: -254}
+        - {x: -13, y: -243}
+        - {x: 32, y: -252}
+        - {x: 50, y: -224}
+    - name: Sprites_Correr_Frente-TOGA_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -165}
+        - {x: 109, y: -103}
+        - {x: 108, y: -67}
+        - {x: 129, y: -85}
+        - {x: 143, y: -85}
+        - {x: 157, y: -74}
+        - {x: 157, y: -64}
+        - {x: 130, y: -26}
+        - {x: 96, y: 16}
+        - {x: 116, y: 81}
+        - {x: 115, y: 110}
+        - {x: 95, y: 203}
+        - {x: 87, y: 223}
+        - {x: 48, y: 247}
+        - {x: -51, y: 247}
+        - {x: -86, y: 234}
+        - {x: -110, y: 194}
+        - {x: -117, y: 134}
+        - {x: -132, y: 103}
+        - {x: -119, y: 49}
+        - {x: -103, y: 17}
+        - {x: -162, y: -55}
+        - {x: -162, y: -74}
+        - {x: -152, y: -85}
+        - {x: -143, y: -85}
+        - {x: -130, y: -82}
+        - {x: -101, y: -59}
+        - {x: -109, y: -106}
+        - {x: -104, y: -164}
+        - {x: -52, y: -214}
+        - {x: -58, y: -224}
+        - {x: -40, y: -252}
+        - {x: -26, y: -248}
+        - {x: -13, y: -236}
+        - {x: 20, y: -249}
+        - {x: 34, y: -254}
+        - {x: 61, y: -254}
+        - {x: 72, y: -243}
+        - {x: 62, y: -216}
+        - {x: 66, y: -180}
+    - name: Sprites_Correr_Frente-TOGA_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: -160}
+        - {x: 107, y: -136}
+        - {x: 106, y: -95}
+        - {x: 100, y: -68}
+        - {x: 134, y: -95}
+        - {x: 157, y: -97}
+        - {x: 165, y: -85}
+        - {x: 165, y: -68}
+        - {x: 143, y: -41}
+        - {x: 94, y: 16}
+        - {x: 124, y: 45}
+        - {x: 133, y: 108}
+        - {x: 114, y: 196}
+        - {x: 88, y: 239}
+        - {x: 45, y: 249}
+        - {x: -38, y: 249}
+        - {x: -78, y: 235}
+        - {x: -98, y: 207}
+        - {x: -121, y: 99}
+        - {x: -115, y: 56}
+        - {x: -94, y: 30}
+        - {x: -139, y: -28}
+        - {x: -164, y: -69}
+        - {x: -164, y: -78}
+        - {x: -149, y: -88}
+        - {x: -133, y: -88}
+        - {x: -106, y: -63}
+        - {x: -110, y: -125}
+        - {x: -105, y: -168}
+        - {x: -38, y: -237}
+        - {x: -23, y: -238}
+        - {x: -7, y: -218}
+        - {x: -13, y: -171}
+        - {x: 12, y: -209}
+        - {x: 20, y: -238}
+        - {x: 28, y: -252}
+        - {x: 54, y: -252}
+        - {x: 85, y: -235}
+        - {x: 88, y: -218}
+        - {x: 73, y: -179}
+        - {x: 87, y: -178}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

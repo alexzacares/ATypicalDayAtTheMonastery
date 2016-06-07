@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 92ad52bb873c21e4990207e842ba58bf
+timeCreated: 1465094681
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Correr_Lado-BOTAS_0
+    21300002: Sprites_Correr_Lado-BOTAS_1
+    21300004: Sprites_Correr_Lado-BOTAS_2
+    21300006: Sprites_Correr_Lado-BOTAS_3
+    21300008: Sprites_Correr_Lado-BOTAS_4
+    21300010: Sprites_Correr_Lado-BOTAS_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Correr_Lado-BOTAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 27.5}
+        - {x: 97, y: 76.5}
+        - {x: 92, y: 95.5}
+        - {x: 53, y: 157.5}
+        - {x: 24, y: 168.5}
+        - {x: -57, y: 168.5}
+        - {x: -93, y: 120.5}
+        - {x: -93, y: 41.5}
+        - {x: -48, y: 6.5}
+        - {x: -83, y: -15.5}
+        - {x: -93, y: -27.5}
+        - {x: -93, y: -107.5}
+        - {x: -89, y: -116.5}
+        - {x: -64, y: -156.5}
+        - {x: -39, y: -172.5}
+        - {x: 11, y: -172.5}
+        - {x: 48, y: -164.5}
+        - {x: 97, y: -118.5}
+        - {x: 97, y: -72.5}
+        - {x: 55, y: -7.5}
+    - name: Sprites_Correr_Lado-BOTAS_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.45703, y: -52.5}
+        - {x: 84.45703, y: 2.5}
+        - {x: 102.45703, y: 31.5}
+        - {x: 102.45703, y: 100.5}
+        - {x: 74.45703, y: 155.5}
+        - {x: 40.45703, y: 165.5}
+        - {x: -64.54297, y: 165.5}
+        - {x: -88.54297, y: 145.5}
+        - {x: -88.54297, y: -23.5}
+        - {x: -84.54297, y: -48.5}
+        - {x: -76.54297, y: -62.5}
+        - {x: -65.54297, y: -72.5}
+        - {x: -53.54297, y: -70.5}
+        - {x: -78.54297, y: -73.5}
+        - {x: -88.54297, y: -70.5}
+        - {x: -88.54297, y: -86.5}
+        - {x: -72.54297, y: -169.5}
+        - {x: 55.45703, y: -169.5}
+        - {x: 73.45703, y: -159.5}
+        - {x: 77.45703, y: -147.5}
+        - {x: 76.45703, y: -138.5}
+        - {x: 102.45703, y: -131.5}
+    - name: Sprites_Correr_Lado-BOTAS_2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.414062, y: 3.5}
+        - {x: 99.41406, y: 25.5}
+        - {x: 110.41406, y: 33.5}
+        - {x: 110.41406, y: 96.5}
+        - {x: 83.41406, y: 152.5}
+        - {x: 52.414062, y: 168.5}
+        - {x: -39.585938, y: 168.5}
+        - {x: -77.58594, y: 139.5}
+        - {x: -82.58594, y: 113.5}
+        - {x: -82.58594, y: 48.5}
+        - {x: -73.58594, y: 33.5}
+        - {x: -72.58594, y: -19.5}
+        - {x: -82.58594, y: -43.5}
+        - {x: -82.58594, y: -96.5}
+        - {x: -75.58594, y: -114.5}
+        - {x: -12.5859375, y: -169.5}
+        - {x: 80.41406, y: -169.5}
+        - {x: 110.41406, y: -113.5}
+        - {x: 110.41406, y: -72.5}
+        - {x: 108.41406, y: -72.5}
+    - name: Sprites_Correr_Lado-BOTAS_3
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.37109, y: -75.5}
+        - {x: 70.37109, y: -17.5}
+        - {x: 111.37109, y: 24.5}
+        - {x: 111.37109, y: 99.5}
+        - {x: 93.37109, y: 144.5}
+        - {x: 51.371094, y: 165.5}
+        - {x: -28.628906, y: 165.5}
+        - {x: -80.62891, y: 139.5}
+        - {x: -80.62891, y: -1.5}
+        - {x: -70.62891, y: -62.5}
+        - {x: -71.62891, y: -77.5}
+        - {x: -74.62891, y: -118.5}
+        - {x: -47.628906, y: -166.5}
+        - {x: -26.628906, y: -172.5}
+        - {x: 16.371094, y: -172.5}
+        - {x: 49.371094, y: -139.5}
+        - {x: 111.37109, y: -118.5}
+        - {x: 111.37109, y: -77.5}
+    - name: Sprites_Correr_Lado-BOTAS_4
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.328125, y: -78.5}
+        - {x: 89.328125, y: -4.5}
+        - {x: 117.328125, y: 27.5}
+        - {x: 117.328125, y: 82.5}
+        - {x: 66.328125, y: 168.5}
+        - {x: -43.671875, y: 168.5}
+        - {x: -76.671875, y: 122.5}
+        - {x: -76.671875, y: 43.5}
+        - {x: -73.671875, y: 32.5}
+        - {x: -34.671875, y: -3.5}
+        - {x: -76.671875, y: -42.5}
+        - {x: -76.671875, y: -128.5}
+        - {x: -39.671875, y: -162.5}
+        - {x: 16.328125, y: -170.5}
+        - {x: 48.328125, y: -170.5}
+        - {x: 59.328125, y: -168.5}
+        - {x: 77.328125, y: -141.5}
+        - {x: 69.328125, y: -133.5}
+        - {x: 117.328125, y: -119.5}
+    - name: Sprites_Correr_Lado-BOTAS_5
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.28516, y: -114.5}
+        - {x: 98.28516, y: 95.5}
+        - {x: 80.28516, y: 165.5}
+        - {x: 62.285156, y: 168.5}
+        - {x: -69.71484, y: 168.5}
+        - {x: -93.71484, y: 147.5}
+        - {x: -93.71484, y: -54.5}
+        - {x: -79.71484, y: -58.5}
+        - {x: -68.71484, y: -56.5}
+        - {x: -84.71484, y: -76.5}
+        - {x: -87.71484, y: -116.5}
+        - {x: -27.714844, y: -163.5}
+        - {x: -1.7148438, y: -170.5}
+        - {x: 36.285156, y: -170.5}
+        - {x: 49.285156, y: -156.5}
+        - {x: 45.285156, y: -147.5}
+        - {x: 96.28516, y: -116.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

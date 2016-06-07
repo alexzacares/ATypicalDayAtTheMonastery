@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: d948ab74e53405b47974edca809862a3
+timeCreated: 1465076972
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tunica_Saltar_Lado_0
+    21300002: Tunica_Saltar_Lado_1
+    21300004: Tunica_Saltar_Lado_2
+    21300006: Tunica_Saltar_Lado_3
+    21300008: Tunica_Saltar_Lado_4
+    21300010: Tunica_Saltar_Lado_5
+    21300012: Tunica_Saltar_Lado_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tunica_Saltar_Lado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -6.5}
+        - {x: -23.5, y: -14.5}
+        - {x: -19.5, y: -36.5}
+        - {x: -16.5, y: -41.5}
+        - {x: 9.5, y: -42.5}
+        - {x: 12.5, y: -42.5}
+        - {x: 10.5, y: -42.5}
+        - {x: -14.5, y: -44.5}
+        - {x: -25.5, y: -33.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -43.5, y: -11.5}
+        - {x: -64.5, y: -15.5}
+        - {x: -64.5, y: -99.5}
+        - {x: -63.5, y: -104.5}
+        - {x: 9.5, y: -104.5}
+        - {x: 32.5, y: -100.5}
+        - {x: 39.5, y: -75.5}
+        - {x: 39.5, y: -14.5}
+        - {x: 16.5, y: -6.5}
+      - - {x: -64.5, y: -54.5}
+        - {x: -61.5, y: -53.5}
+        - {x: -61.5, y: -50.5}
+        - {x: -64.5, y: -49.5}
+        - {x: -66.5, y: -51.5}
+    - name: Tunica_Saltar_Lado_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.571442, y: 6.5}
+        - {x: 5.5714417, y: 6.5}
+        - {x: -40.42856, y: -26.5}
+        - {x: -40.42856, y: -94.5}
+        - {x: 44.57144, y: -94.5}
+        - {x: 49.57144, y: -90.5}
+        - {x: 52.57144, y: -80.5}
+        - {x: 52.57144, y: -17.5}
+    - name: Tunica_Saltar_Lado_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.642883, y: 9.5}
+        - {x: 23.642883, y: 9.5}
+        - {x: 1.6428833, y: -1.5}
+        - {x: 2.6428833, y: -5.5}
+        - {x: -16.357117, y: -28.5}
+        - {x: -18.357117, y: -31.5}
+        - {x: -18.357117, y: -88.5}
+        - {x: -13.357117, y: -97.5}
+        - {x: 78.64288, y: -97.5}
+        - {x: 80.64288, y: -96.5}
+        - {x: 85.64288, y: -90.5}
+        - {x: 85.64288, y: -30.5}
+        - {x: 78.64288, y: 3.5}
+      - - {x: 26.642883, y: 99.5}
+        - {x: 26.642883, y: 97.5}
+        - {x: 28.642883, y: 95.5}
+        - {x: 30.642883, y: 95.5}
+        - {x: 33.642883, y: 98.5}
+        - {x: 32.642883, y: 101.5}
+        - {x: 28.642883, y: 101.5}
+    - name: Tunica_Saltar_Lado_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.714355, y: -23.5}
+        - {x: 58.714355, y: 9.5}
+        - {x: 19.714355, y: 9.5}
+        - {x: -7.2856445, y: 1.5}
+        - {x: -17.285645, y: -23.5}
+        - {x: -17.285645, y: -72.5}
+        - {x: -11.285645, y: -96.5}
+        - {x: 63.714355, y: -96.5}
+        - {x: 83.714355, y: -84.5}
+        - {x: 86.714355, y: -75.5}
+        - {x: 86.714355, y: -42.5}
+    - name: Tunica_Saltar_Lado_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66.78577, y: 9.5}
+        - {x: 20.785767, y: 9.5}
+        - {x: -0.2142334, y: 5.5}
+        - {x: -18.214233, y: -26.5}
+        - {x: -18.214233, y: -63.5}
+        - {x: -13.214233, y: -95.5}
+        - {x: -8.214233, y: -96.5}
+        - {x: 85.78577, y: -96.5}
+        - {x: 85.78577, y: -1.5}
+        - {x: 84.78577, y: 1.5}
+      - - {x: -32.214233, y: 116.5}
+        - {x: -37.214233, y: 110.5}
+        - {x: -36.214233, y: 107.5}
+        - {x: -29.214233, y: 107.5}
+        - {x: -21.214233, y: 112.5}
+        - {x: -21.214233, y: 115.5}
+        - {x: -22.214233, y: 116.5}
+    - name: Tunica_Saltar_Lado_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.857178, y: 16.5}
+        - {x: -10.142822, y: 16.5}
+        - {x: -51.142822, y: 11.5}
+        - {x: -51.142822, y: -83.5}
+        - {x: -45.142822, y: -85.5}
+        - {x: 14.857178, y: -85.5}
+        - {x: 25.857178, y: -84.5}
+        - {x: 42.857178, y: -51.5}
+        - {x: 42.857178, y: -26.5}
+        - {x: 21.857178, y: 12.5}
+      - - {x: -10.142822, y: 113.5}
+        - {x: -15.142822, y: 109.5}
+        - {x: -15.142822, y: 107.5}
+        - {x: -13.142822, y: 105.5}
+        - {x: -7.1428223, y: 107.5}
+        - {x: -3.1428223, y: 110.5}
+        - {x: -4.1428223, y: 113.5}
+      - - {x: 13.857178, y: 122.5}
+        - {x: 10.857178, y: 119.5}
+        - {x: 11.857178, y: 116.5}
+        - {x: 15.857178, y: 116.5}
+        - {x: 17.857178, y: 117.5}
+        - {x: 17.857178, y: 120.5}
+        - {x: 16.857178, y: 122.5}
+    - name: Tunica_Saltar_Lado_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.92871, y: 15.5}
+        - {x: 1.9287109, y: 15.5}
+        - {x: -6.071289, y: 14.5}
+        - {x: -15.071289, y: -12.5}
+        - {x: -11.071289, y: -14.5}
+        - {x: -50.07129, y: -8.5}
+        - {x: -50.07129, y: -60.5}
+        - {x: -49.07129, y: -77.5}
+        - {x: -42.07129, y: -85.5}
+        - {x: 25.92871, y: -85.5}
+        - {x: 43.92871, y: -55.5}
+        - {x: 43.92871, y: -23.5}
+        - {x: 19.92871, y: 14.5}
+      - - {x: -37.07129, y: 13.5}
+        - {x: -36.07129, y: 10.5}
+        - {x: -33.07129, y: 10.5}
+        - {x: -31.07129, y: 12.5}
+        - {x: -32.07129, y: 15.5}
+        - {x: -35.07129, y: 15.5}
+      - - {x: -10.071289, y: 124.5}
+        - {x: -10.071289, y: 122.5}
+        - {x: -8.071289, y: 121.5}
+        - {x: -4.071289, y: 121.5}
+        - {x: -2.071289, y: 124.5}
+        - {x: -3.071289, y: 127.5}
+        - {x: -7.071289, y: 127.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

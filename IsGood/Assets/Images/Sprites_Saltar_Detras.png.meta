@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 6cb805b9a164a014a948a37d127841f9
+timeCreated: 1465071936
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Saltar_Detras_0
+    21300002: Sprites_Saltar_Detras_1
+    21300004: Sprites_Saltar_Detras_2
+    21300006: Sprites_Saltar_Detras_3
+    21300008: Sprites_Saltar_Detras_4
+    21300010: Sprites_Saltar_Detras_5
+    21300012: Sprites_Saltar_Detras_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Saltar_Detras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 117.5}
+        - {x: -46.5, y: 117.5}
+        - {x: -75.5, y: 61.5}
+        - {x: -75.5, y: -91.5}
+        - {x: -42.5, y: -136.5}
+        - {x: 61.5, y: -136.5}
+        - {x: 80.5, y: -110.5}
+        - {x: 80.5, y: 27.5}
+        - {x: 76.5, y: 80.5}
+    - name: Sprites_Saltar_Detras_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.57144, y: -86.5}
+        - {x: 107.57144, y: -45.5}
+        - {x: 107.57144, y: 50.5}
+        - {x: 78.57144, y: 136.5}
+        - {x: -57.42856, y: 136.5}
+        - {x: -63.42856, y: 116.5}
+        - {x: -107.42856, y: 20.5}
+        - {x: -107.42856, y: -45.5}
+        - {x: -82.42856, y: -83.5}
+        - {x: -26.428558, y: -136.5}
+        - {x: 22.571442, y: -136.5}
+        - {x: 24.571442, y: -128.5}
+        - {x: 37.57144, y: -105.5}
+    - name: Sprites_Saltar_Detras_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.642883, y: 123.5}
+        - {x: 39.642883, y: 136.5}
+        - {x: -37.357117, y: 136.5}
+        - {x: -62.357117, y: 129.5}
+        - {x: -91.35712, y: 53.5}
+        - {x: -91.35712, y: 17.5}
+        - {x: -64.35712, y: -12.5}
+        - {x: -91.35712, y: -76.5}
+        - {x: -91.35712, y: -92.5}
+        - {x: -33.357117, y: -120.5}
+        - {x: 45.642883, y: -120.5}
+        - {x: 91.64288, y: -88.5}
+        - {x: 91.64288, y: 52.5}
+        - {x: 87.64288, y: 55.5}
+    - name: Sprites_Saltar_Detras_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.714355, y: 129.5}
+        - {x: 36.714355, y: 136.5}
+        - {x: -40.285645, y: 136.5}
+        - {x: -61.285645, y: 115.5}
+        - {x: -90.285645, y: 80.5}
+        - {x: -90.285645, y: 27.5}
+        - {x: -61.285645, y: -10.5}
+        - {x: -90.285645, y: -29.5}
+        - {x: -90.285645, y: -69.5}
+        - {x: -62.285645, y: -120.5}
+        - {x: 48.714355, y: -120.5}
+        - {x: 76.714355, y: -82.5}
+        - {x: 91.714355, y: -12.5}
+        - {x: 91.714355, y: 84.5}
+    - name: Sprites_Saltar_Detras_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91.78577, y: 85.5}
+        - {x: 69.78577, y: 136.5}
+        - {x: -75.21423, y: 136.5}
+        - {x: -91.21423, y: 100.5}
+        - {x: -91.21423, y: -59.5}
+        - {x: -82.21423, y: -82.5}
+        - {x: -37.214233, y: -120.5}
+        - {x: 26.785767, y: -120.5}
+        - {x: 80.78577, y: -87.5}
+        - {x: 78.78577, y: -46.5}
+        - {x: 91.78577, y: -6.5}
+    - name: Sprites_Saltar_Detras_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.857178, y: -136.5}
+        - {x: 36.857178, y: -108.5}
+        - {x: 78.85718, y: -84.5}
+        - {x: 80.85718, y: -82.5}
+        - {x: 80.85718, y: -50.5}
+        - {x: 107.85718, y: -21.5}
+        - {x: 107.85718, y: 9.5}
+        - {x: 63.857178, y: 136.5}
+        - {x: -46.142822, y: 136.5}
+        - {x: -106.14282, y: 13.5}
+        - {x: -106.14282, y: -19.5}
+        - {x: -55.142822, y: -136.5}
+        - {x: -8.142822, y: -136.5}
+        - {x: -7.1428223, y: -132.5}
+        - {x: -2.1428223, y: -122.5}
+        - {x: -0.14282227, y: -129.5}
+        - {x: 11.857178, y: -136.5}
+    - name: Sprites_Saltar_Detras_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.92871, y: 136.5}
+        - {x: -34.07129, y: 136.5}
+        - {x: -57.07129, y: 122.5}
+        - {x: -107.07129, y: 12.5}
+        - {x: -107.07129, y: -29.5}
+        - {x: -74.07129, y: -39.5}
+        - {x: -83.07129, y: -86.5}
+        - {x: -52.07129, y: -136.5}
+        - {x: 52.92871, y: -136.5}
+        - {x: 82.92871, y: -84.5}
+        - {x: 107.92871, y: -34.5}
+        - {x: 107.92871, y: 57.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

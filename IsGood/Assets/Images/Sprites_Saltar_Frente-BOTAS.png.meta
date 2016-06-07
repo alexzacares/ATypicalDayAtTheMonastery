@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 0d0d034de7100c44b827cedf2d44094a
+timeCreated: 1465103297
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Saltar_Frente-BOTAS_0
+    21300002: Sprites_Saltar_Frente-BOTAS_1
+    21300004: Sprites_Saltar_Frente-BOTAS_2
+    21300006: Sprites_Saltar_Frente-BOTAS_3
+    21300008: Sprites_Saltar_Frente-BOTAS_4
+    21300010: Sprites_Saltar_Frente-BOTAS_5
+    21300012: Sprites_Saltar_Frente-BOTAS_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Saltar_Frente-BOTAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -138.5}
+        - {x: 6.5, y: -145.5}
+        - {x: 41.5, y: -145.5}
+        - {x: 56.5, y: -141.5}
+        - {x: 82.5, y: -99.5}
+        - {x: 82.5, y: -64.5}
+        - {x: 80.5, y: -62.5}
+        - {x: 60.5, y: -62.5}
+        - {x: 62.5, y: -62.5}
+        - {x: 79.5, y: -50.5}
+        - {x: 66.5, y: 95.5}
+        - {x: 50.5, y: 105.5}
+        - {x: -50.5, y: 105.5}
+        - {x: -73.5, y: 65.5}
+        - {x: -73.5, y: -105.5}
+        - {x: -59.5, y: -145.5}
+        - {x: -6.5, y: -145.5}
+        - {x: -1.5, y: -136.5}
+        - {x: -2.5, y: -133.5}
+        - {x: -3.5, y: -120.5}
+    - name: Sprites_Saltar_Frente-BOTAS_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112.57144, y: 10.5}
+        - {x: 106.57144, y: 29.5}
+        - {x: 56.57144, y: 142.5}
+        - {x: -29.428558, y: 142.5}
+        - {x: -64.42856, y: 134.5}
+        - {x: -112.42856, y: 34.5}
+        - {x: -112.42856, y: -24.5}
+        - {x: -85.42856, y: -29.5}
+        - {x: -80.42856, y: -91.5}
+        - {x: -27.428558, y: -144.5}
+        - {x: 38.57144, y: -144.5}
+        - {x: 98.57144, y: -94.5}
+        - {x: 112.57144, y: -52.5}
+    - name: Sprites_Saltar_Frente-BOTAS_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.642883, y: -124.5}
+        - {x: 94.64288, y: -94.5}
+        - {x: 94.64288, y: 87.5}
+        - {x: 50.642883, y: 142.5}
+        - {x: -95.35712, y: 142.5}
+        - {x: -95.35712, y: -109.5}
+        - {x: -34.357117, y: -124.5}
+        - {x: -12.357117, y: -124.5}
+        - {x: -5.3571167, y: -119.5}
+        - {x: -3.3571167, y: -101.5}
+        - {x: -2.3571167, y: -106.5}
+        - {x: 5.6428833, y: -124.5}
+    - name: Sprites_Saltar_Frente-BOTAS_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.714355, y: 26.5}
+        - {x: 95.714355, y: 82.5}
+        - {x: 56.714355, y: 142.5}
+        - {x: -54.285645, y: 142.5}
+        - {x: -85.285645, y: 66.5}
+        - {x: -94.285645, y: 64.5}
+        - {x: -94.285645, y: -52.5}
+        - {x: -81.285645, y: -82.5}
+        - {x: -24.285645, y: -124.5}
+        - {x: 51.714355, y: -124.5}
+        - {x: 95.714355, y: -97.5}
+        - {x: 95.714355, y: -66.5}
+        - {x: 75.714355, y: 1.5}
+    - name: Sprites_Saltar_Frente-BOTAS_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.785767, y: 142.5}
+        - {x: -58.214233, y: 142.5}
+        - {x: -74.21423, y: 71.5}
+        - {x: -95.21423, y: 56.5}
+        - {x: -95.21423, y: 2.5}
+        - {x: -80.21423, y: -47.5}
+        - {x: -81.21423, y: -83.5}
+        - {x: -26.214233, y: -123.5}
+        - {x: -21.214233, y: -124.5}
+        - {x: 23.785767, y: -124.5}
+        - {x: 94.78577, y: -95.5}
+        - {x: 94.78577, y: 97.5}
+    - name: Sprites_Saltar_Frente-BOTAS_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.85718, y: 114.5}
+        - {x: 60.857178, y: 142.5}
+        - {x: -51.142822, y: 142.5}
+        - {x: -60.142822, y: 130.5}
+        - {x: -111.14282, y: -0.5}
+        - {x: -111.14282, y: -17.5}
+        - {x: -101.14282, y: -27.5}
+        - {x: -80.14282, y: -88.5}
+        - {x: -36.142822, y: -144.5}
+        - {x: 31.857178, y: -144.5}
+        - {x: 105.85718, y: -98.5}
+        - {x: 112.85718, y: -81.5}
+        - {x: 112.85718, y: 32.5}
+    - name: Sprites_Saltar_Frente-BOTAS_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.92871, y: -54.5}
+        - {x: 71.92871, y: -52.5}
+        - {x: 77.92871, y: -55.5}
+        - {x: 89.92871, y: -54.5}
+        - {x: 89.92871, y: -4.5}
+        - {x: 56.92871, y: 116.5}
+        - {x: 42.92871, y: 132.5}
+        - {x: -40.07129, y: 132.5}
+        - {x: -67.07129, y: 126.5}
+        - {x: -91.07129, y: 58.5}
+        - {x: -91.07129, y: -102.5}
+        - {x: -66.07129, y: -146.5}
+        - {x: 36.92871, y: -146.5}
+        - {x: 38.92871, y: -142.5}
+        - {x: 33.92871, y: -123.5}
+        - {x: 71.92871, y: -88.5}
+        - {x: 73.92871, y: -86.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
