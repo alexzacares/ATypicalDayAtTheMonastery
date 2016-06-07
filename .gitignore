@@ -1,0 +1,14 @@
+#This is the git ignore file used in Duck Hunted
+#Note that ! negates an ignore. We ignore everything in Library then
+#un-ignore the metadata folder and some specific files
+#Use at your own risk, this may totally destroy your project, but it worked for us
+ 
+#NOTE: this will cause your collaborators to re-import assets periodically
+Library/
+Temp/
+*.pidb
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+[Bb]uilds/

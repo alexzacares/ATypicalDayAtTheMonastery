@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 0d42681312081c04dad07a7406e1faba
+timeCreated: 1465101997
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Parado-BOTAS_0
+    21300002: Sprites_Parado-BOTAS_1
+    21300004: Sprites_Parado-BOTAS_2
+    21300006: Sprites_Parado-BOTAS_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Parado-BOTAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -190}
+        - {x: 29, y: -207}
+        - {x: 27, y: -240}
+        - {x: 37, y: -249}
+        - {x: 93, y: -249}
+        - {x: 105, y: -238}
+        - {x: 101, y: -222}
+        - {x: 92, y: -201}
+        - {x: 98, y: -169}
+        - {x: 150, y: -166}
+        - {x: 150, y: -105}
+        - {x: 128, y: -94}
+        - {x: 116, y: -6}
+        - {x: 105, y: 26}
+        - {x: 134, y: 53}
+        - {x: 141, y: 85}
+        - {x: 106, y: 192}
+        - {x: 86, y: 223}
+        - {x: 50, y: 241}
+        - {x: 32, y: 246}
+        - {x: -49, y: 246}
+        - {x: -88, y: 228}
+        - {x: -123, y: 188}
+        - {x: -134, y: 162}
+        - {x: -135, y: 143}
+        - {x: -135, y: 92}
+        - {x: -133, y: 83}
+        - {x: -119, y: 51}
+        - {x: -86, y: 16}
+        - {x: -97, y: 1}
+        - {x: -104, y: -101}
+        - {x: -121, y: -107}
+        - {x: -122, y: -166}
+        - {x: -65, y: -169}
+        - {x: -60, y: -208}
+        - {x: -80, y: -228}
+        - {x: -66, y: -249}
+        - {x: -3, y: -249}
+        - {x: 12, y: -230}
+        - {x: 0, y: -189}
+        - {x: 7, y: -166}
+    - name: Sprites_Parado-BOTAS_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136, y: -166}
+        - {x: 138, y: -164}
+        - {x: 138, y: -108}
+        - {x: 136, y: -106}
+        - {x: 93, y: -97}
+        - {x: 95, y: -68}
+        - {x: 74, y: -21}
+        - {x: 60, y: 1}
+        - {x: 83, y: 13}
+        - {x: 114, y: 30}
+        - {x: 132, y: 50}
+        - {x: 139, y: 68}
+        - {x: 139, y: 95}
+        - {x: 133, y: 118}
+        - {x: 121, y: 123}
+        - {x: 86, y: 206}
+        - {x: 65, y: 229}
+        - {x: 37, y: 242}
+        - {x: 22, y: 245}
+        - {x: -65, y: 245}
+        - {x: -118, y: 203}
+        - {x: -139, y: 153}
+        - {x: -139, y: 95}
+        - {x: -135, y: 69}
+        - {x: -111, y: 40}
+        - {x: -54, y: 5}
+        - {x: -67, y: -13}
+        - {x: -82, y: -97}
+        - {x: -133, y: -107}
+        - {x: -134, y: -166}
+        - {x: -55, y: -170}
+        - {x: -48, y: -240}
+        - {x: -38, y: -249}
+        - {x: 54, y: -249}
+        - {x: 67, y: -239}
+        - {x: 51, y: -202}
+        - {x: 48, y: -166}
+    - name: Sprites_Parado-BOTAS_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: -207}
+        - {x: 25, y: -241}
+        - {x: 44, y: -249}
+        - {x: 101, y: -249}
+        - {x: 114, y: -227}
+        - {x: 92, y: -201}
+        - {x: 95, y: -166}
+        - {x: 146, y: -166}
+        - {x: 148, y: -164}
+        - {x: 148, y: -108}
+        - {x: 146, y: -106}
+        - {x: 117, y: -100}
+        - {x: 121, y: -57}
+        - {x: 113, y: 8}
+        - {x: 136, y: 49}
+        - {x: 141, y: 99}
+        - {x: 108, y: 183}
+        - {x: 93, y: 212}
+        - {x: 73, y: 231}
+        - {x: 44, y: 245}
+        - {x: 24, y: 246}
+        - {x: -46, y: 246}
+        - {x: -79, y: 235}
+        - {x: -125, y: 191}
+        - {x: -136, y: 150}
+        - {x: -136, y: 87}
+        - {x: -118, y: 44}
+        - {x: -89, y: 5}
+        - {x: -97, y: -52}
+        - {x: -96, y: -104}
+        - {x: -119, y: -106}
+        - {x: -121, y: -108}
+        - {x: -121, y: -164}
+        - {x: -119, y: -166}
+        - {x: -65, y: -168}
+        - {x: -77, y: -243}
+        - {x: -68, y: -249}
+        - {x: -4, y: -249}
+        - {x: 4, y: -248}
+        - {x: -1, y: -190}
+        - {x: 7, y: -166}
+        - {x: 37, y: -189}
+    - name: Sprites_Parado-BOTAS_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -170}
+        - {x: 124, y: -166}
+        - {x: 121, y: -108}
+        - {x: 119, y: -106}
+        - {x: 79, y: -105}
+        - {x: 77, y: -85}
+        - {x: 65, y: -10}
+        - {x: 106, y: 34}
+        - {x: 139, y: 67}
+        - {x: 139, y: 157}
+        - {x: 134, y: 173}
+        - {x: 99, y: 221}
+        - {x: 64, y: 244}
+        - {x: 47, y: 245}
+        - {x: -32, y: 245}
+        - {x: -73, y: 228}
+        - {x: -99, y: 182}
+        - {x: -108, y: 127}
+        - {x: -134, y: 119}
+        - {x: -143, y: 92}
+        - {x: -134, y: 49}
+        - {x: -111, y: 24}
+        - {x: -64, y: 3}
+        - {x: -100, y: -74}
+        - {x: -92, y: -104}
+        - {x: -145, y: -106}
+        - {x: -147, y: -108}
+        - {x: -147, y: -166}
+        - {x: -52, y: -171}
+        - {x: -50, y: -207}
+        - {x: -61, y: -229}
+        - {x: -59, y: -241}
+        - {x: -48, y: -249}
+        - {x: 30, y: -249}
+        - {x: 46, y: -244}
+        - {x: 49, y: -229}
+        - {x: 45, y: -189}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 0008e80119e24244e9ed7949b1817bf8
+timeCreated: 1465106147
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Correr_Lado-TOGA_0
+    21300002: Sprites_Correr_Lado-TOGA_1
+    21300004: Sprites_Correr_Lado-TOGA_2
+    21300006: Sprites_Correr_Lado-TOGA_3
+    21300008: Sprites_Correr_Lado-TOGA_4
+    21300010: Sprites_Correr_Lado-TOGA_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Correr_Lado-TOGA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 89.5}
+        - {x: 52, y: 157.5}
+        - {x: 25, y: 168.5}
+        - {x: -57, y: 168.5}
+        - {x: -93, y: 120.5}
+        - {x: -93, y: 41.5}
+        - {x: -48, y: 6.5}
+        - {x: -82, y: -15.5}
+        - {x: -93, y: -27.5}
+        - {x: -93, y: -76.5}
+        - {x: -69, y: -112.5}
+        - {x: -63, y: -156.5}
+        - {x: -40, y: -172.5}
+        - {x: 27, y: -172.5}
+        - {x: 89, y: -58.5}
+        - {x: 60, y: -0.5}
+        - {x: 96, y: 35.5}
+    - name: Sprites_Correr_Lado-TOGA_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.45703, y: 15.5}
+        - {x: 102.45703, y: 74.5}
+        - {x: 72.45703, y: 153.5}
+        - {x: 38.45703, y: 165.5}
+        - {x: -43.54297, y: 165.5}
+        - {x: -88.54297, y: 124.5}
+        - {x: -88.54297, y: 49.5}
+        - {x: -70.54297, y: 18.5}
+        - {x: -85.54297, y: -60.5}
+        - {x: -70.54297, y: -158.5}
+        - {x: -67.54297, y: -169.5}
+        - {x: -46.54297, y: -169.5}
+        - {x: 13.457031, y: -141.5}
+        - {x: 28.457031, y: -169.5}
+        - {x: 55.45703, y: -169.5}
+        - {x: 73.45703, y: -159.5}
+        - {x: 77.45703, y: -147.5}
+        - {x: 87.45703, y: -130.5}
+        - {x: 84.45703, y: -21.5}
+    - name: Sprites_Correr_Lado-TOGA_2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.41406, y: 32.5}
+        - {x: 105.41406, y: 106.5}
+        - {x: 83.41406, y: 152.5}
+        - {x: 52.414062, y: 168.5}
+        - {x: -39.585938, y: 168.5}
+        - {x: -77.58594, y: 139.5}
+        - {x: -82.58594, y: 113.5}
+        - {x: -82.58594, y: 48.5}
+        - {x: -73.58594, y: 33.5}
+        - {x: -65.58594, y: -26.5}
+        - {x: -80.58594, y: -44.5}
+        - {x: -71.58594, y: -52.5}
+        - {x: -74.58594, y: -96.5}
+        - {x: -22.585938, y: -169.5}
+        - {x: 63.414062, y: -169.5}
+        - {x: 83.41406, y: -100.5}
+        - {x: 88.41406, y: -33.5}
+        - {x: 96.41406, y: 27.5}
+    - name: Sprites_Correr_Lado-TOGA_3
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111.37109, y: 33.5}
+        - {x: 111.37109, y: 74.5}
+        - {x: 110.37109, y: 86.5}
+        - {x: 68.37109, y: 160.5}
+        - {x: 47.371094, y: 165.5}
+        - {x: -29.628906, y: 165.5}
+        - {x: -79.62891, y: 136.5}
+        - {x: -80.62891, y: 134.5}
+        - {x: -80.62891, y: 42.5}
+        - {x: -57.628906, y: 7.5}
+        - {x: -76.62891, y: -49.5}
+        - {x: -66.62891, y: -111.5}
+        - {x: -34.628906, y: -130.5}
+        - {x: -42.628906, y: -164.5}
+        - {x: -22.628906, y: -172.5}
+        - {x: 8.371094, y: -172.5}
+        - {x: 85.37109, y: -105.5}
+        - {x: 92.37109, y: -36.5}
+        - {x: 92.37109, y: 13.5}
+    - name: Sprites_Correr_Lado-TOGA_4
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.328125, y: -111.5}
+        - {x: 73.328125, y: -106.5}
+        - {x: 115.328125, y: -104.5}
+        - {x: 115.328125, y: 168.5}
+        - {x: -43.671875, y: 168.5}
+        - {x: -76.671875, y: 122.5}
+        - {x: -76.671875, y: -37.5}
+        - {x: -73.671875, y: -61.5}
+        - {x: -52.671875, y: -67.5}
+        - {x: -46.671875, y: -64.5}
+        - {x: -48.671875, y: -69.5}
+        - {x: -61.671875, y: -109.5}
+        - {x: -39.671875, y: -162.5}
+        - {x: 12.328125, y: -170.5}
+        - {x: 69.328125, y: -170.5}
+        - {x: 78.328125, y: -141.5}
+        - {x: 53.328125, y: -118.5}
+        - {x: 54.328125, y: -115.5}
+    - name: Sprites_Correr_Lado-TOGA_5
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 0
+        width: 506.5
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.28516, y: -13.5}
+        - {x: 95.28516, y: 38.5}
+        - {x: 95.28516, y: 89.5}
+        - {x: 64.28516, y: 149.5}
+        - {x: 35.285156, y: 168.5}
+        - {x: -34.714844, y: 168.5}
+        - {x: -72.71484, y: 158.5}
+        - {x: -93.71484, y: 118.5}
+        - {x: -93.71484, y: 53.5}
+        - {x: -91.71484, y: 42.5}
+        - {x: -75.71484, y: 29.5}
+        - {x: -59.714844, y: -9.5}
+        - {x: -93.71484, y: -31.5}
+        - {x: -93.71484, y: -64.5}
+        - {x: -86.71484, y: -114.5}
+        - {x: -27.714844, y: -165.5}
+        - {x: -2.7148438, y: -170.5}
+        - {x: 36.285156, y: -170.5}
+        - {x: 53.285156, y: -158.5}
+        - {x: 64.28516, y: -105.5}
+        - {x: 80.28516, y: -58.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

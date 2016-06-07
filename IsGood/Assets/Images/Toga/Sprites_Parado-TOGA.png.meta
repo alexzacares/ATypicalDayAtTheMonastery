@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 1ddfb2e6df9e86144a4bde5409d7e61c
+timeCreated: 1465106113
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Parado-TOGA_0
+    21300002: Sprites_Parado-TOGA_1
+    21300004: Sprites_Parado-TOGA_2
+    21300006: Sprites_Parado-TOGA_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Parado-TOGA_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -207}
+        - {x: 23, y: -242}
+        - {x: 43, y: -249}
+        - {x: 100, y: -249}
+        - {x: 107, y: -229}
+        - {x: 92, y: -208}
+        - {x: 123, y: -162}
+        - {x: 129, y: -95}
+        - {x: 122, y: -85}
+        - {x: 116, y: -6}
+        - {x: 105, y: 26}
+        - {x: 134, y: 53}
+        - {x: 136, y: 63}
+        - {x: 136, y: 95}
+        - {x: 117, y: 136}
+        - {x: 106, y: 192}
+        - {x: 86, y: 223}
+        - {x: 50, y: 241}
+        - {x: 32, y: 246}
+        - {x: -49, y: 246}
+        - {x: -88, y: 228}
+        - {x: -123, y: 188}
+        - {x: -134, y: 162}
+        - {x: -135, y: 143}
+        - {x: -135, y: 92}
+        - {x: -133, y: 83}
+        - {x: -119, y: 51}
+        - {x: -86, y: 16}
+        - {x: -93, y: 1}
+        - {x: -100, y: -63}
+        - {x: -104, y: -117}
+        - {x: -82, y: -175}
+        - {x: -71, y: -183}
+        - {x: -61, y: -190}
+        - {x: -73, y: -229}
+        - {x: -71, y: -241}
+        - {x: -58, y: -249}
+        - {x: -3, y: -249}
+        - {x: 12, y: -230}
+        - {x: 0, y: -190}
+        - {x: 35, y: -191}
+    - name: Sprites_Parado-TOGA_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -200}
+        - {x: 93, y: -192}
+        - {x: 123, y: -163}
+        - {x: 134, y: -107}
+        - {x: 106, y: -66}
+        - {x: 88, y: -21}
+        - {x: 68, y: 9}
+        - {x: 83, y: 13}
+        - {x: 114, y: 30}
+        - {x: 132, y: 50}
+        - {x: 139, y: 68}
+        - {x: 139, y: 95}
+        - {x: 133, y: 118}
+        - {x: 121, y: 123}
+        - {x: 97, y: 173}
+        - {x: 86, y: 206}
+        - {x: 65, y: 229}
+        - {x: 37, y: 242}
+        - {x: 22, y: 245}
+        - {x: -65, y: 245}
+        - {x: -118, y: 203}
+        - {x: -139, y: 153}
+        - {x: -139, y: 95}
+        - {x: -135, y: 69}
+        - {x: -111, y: 40}
+        - {x: -54, y: 5}
+        - {x: -67, y: -13}
+        - {x: -66, y: -40}
+        - {x: -86, y: -77}
+        - {x: -101, y: -143}
+        - {x: -93, y: -178}
+        - {x: -50, y: -242}
+        - {x: -38, y: -249}
+        - {x: 53, y: -249}
+        - {x: 64, y: -238}
+        - {x: 60, y: -223}
+        - {x: 49, y: -205}
+    - name: Sprites_Parado-TOGA_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -207}
+        - {x: 25, y: -242}
+        - {x: 45, y: -249}
+        - {x: 95, y: -249}
+        - {x: 107, y: -238}
+        - {x: 106, y: -230}
+        - {x: 92, y: -189}
+        - {x: 107, y: -186}
+        - {x: 121, y: -174}
+        - {x: 126, y: -165}
+        - {x: 126, y: -81}
+        - {x: 113, y: 8}
+        - {x: 136, y: 66}
+        - {x: 136, y: 87}
+        - {x: 135, y: 97}
+        - {x: 118, y: 132}
+        - {x: 108, y: 183}
+        - {x: 93, y: 212}
+        - {x: 73, y: 231}
+        - {x: 44, y: 245}
+        - {x: 24, y: 246}
+        - {x: -46, y: 246}
+        - {x: -79, y: 235}
+        - {x: -125, y: 191}
+        - {x: -136, y: 150}
+        - {x: -136, y: 96}
+        - {x: -126, y: 63}
+        - {x: -115, y: 47}
+        - {x: -97, y: 30}
+        - {x: -89, y: 5}
+        - {x: -97, y: -52}
+        - {x: -100, y: -118}
+        - {x: -80, y: -170}
+        - {x: -60, y: -189}
+        - {x: -75, y: -229}
+        - {x: -75, y: -242}
+        - {x: -60, y: -249}
+        - {x: -12, y: -249}
+        - {x: 2, y: -245}
+        - {x: 3, y: -206}
+        - {x: 2, y: -187}
+    - name: Sprites_Parado-TOGA_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: -170}
+        - {x: 97, y: -120}
+        - {x: 86, y: -82}
+        - {x: 67, y: -39}
+        - {x: 64, y: -10}
+        - {x: 106, y: 34}
+        - {x: 136, y: 69}
+        - {x: 139, y: 92}
+        - {x: 139, y: 146}
+        - {x: 134, y: 173}
+        - {x: 99, y: 221}
+        - {x: 62, y: 239}
+        - {x: 35, y: 245}
+        - {x: -18, y: 245}
+        - {x: -37, y: 243}
+        - {x: -70, y: 225}
+        - {x: -82, y: 211}
+        - {x: -95, y: 181}
+        - {x: -108, y: 127}
+        - {x: -134, y: 119}
+        - {x: -139, y: 105}
+        - {x: -139, y: 71}
+        - {x: -134, y: 49}
+        - {x: -114, y: 29}
+        - {x: -70, y: 5}
+        - {x: -88, y: -20}
+        - {x: -111, y: -82}
+        - {x: -126, y: -100}
+        - {x: -130, y: -139}
+        - {x: -104, y: -187}
+        - {x: -62, y: -206}
+        - {x: -64, y: -243}
+        - {x: -51, y: -249}
+        - {x: 34, y: -249}
+        - {x: 46, y: -244}
+        - {x: 48, y: -210}
+        - {x: 82, y: -195}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

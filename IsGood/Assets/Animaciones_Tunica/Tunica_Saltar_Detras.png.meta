@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: fd9c077a265fb624b99b0caad8816800
+timeCreated: 1465076462
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tunica_Saltar_Detras_0
+    21300002: Tunica_Saltar_Detras_1
+    21300004: Tunica_Saltar_Detras_2
+    21300006: Tunica_Saltar_Detras_3
+    21300008: Tunica_Saltar_Detras_4
+    21300010: Tunica_Saltar_Detras_5
+    21300012: Tunica_Saltar_Detras_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tunica_Saltar_Detras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 6.5}
+        - {x: -62.5, y: -38.5}
+        - {x: -62.5, y: -94.5}
+        - {x: -56.5, y: -96.5}
+        - {x: -43.5, y: -100.5}
+        - {x: 45.5, y: -100.5}
+        - {x: 59.5, y: -95.5}
+        - {x: 59.5, y: -32.5}
+        - {x: 40.5, y: 6.5}
+    - name: Tunica_Saltar_Detras_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.57144, y: 24.5}
+        - {x: -33.42856, y: 24.5}
+        - {x: -53.42856, y: 20.5}
+        - {x: -59.42856, y: -4.5}
+        - {x: -59.42856, y: -88.5}
+        - {x: -53.42856, y: -107.5}
+        - {x: 48.57144, y: -107.5}
+        - {x: 62.57144, y: -103.5}
+        - {x: 62.57144, y: -35.5}
+        - {x: 51.57144, y: 15.5}
+    - name: Tunica_Saltar_Detras_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.357117, y: 24.5}
+        - {x: -68.35712, y: -41.5}
+        - {x: -68.35712, y: -98.5}
+        - {x: 59.642883, y: -98.5}
+        - {x: 59.642883, y: -2.5}
+        - {x: 55.642883, y: 24.5}
+    - name: Tunica_Saltar_Detras_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.285645, y: 24.5}
+        - {x: -67.285645, y: 18.5}
+        - {x: -67.285645, y: -93.5}
+        - {x: -56.285645, y: -98.5}
+        - {x: 59.714355, y: -98.5}
+        - {x: 60.714355, y: -95.5}
+        - {x: 60.714355, y: 21.5}
+        - {x: 59.714355, y: 24.5}
+    - name: Tunica_Saltar_Detras_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.214233, y: 24.5}
+        - {x: -67.21423, y: -32.5}
+        - {x: -67.21423, y: -90.5}
+        - {x: -58.214233, y: -98.5}
+        - {x: 58.785767, y: -98.5}
+        - {x: 60.785767, y: -93.5}
+        - {x: 60.785767, y: 2.5}
+        - {x: 49.785767, y: 24.5}
+    - name: Tunica_Saltar_Detras_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.857178, y: 24.5}
+        - {x: -35.142822, y: 24.5}
+        - {x: -55.142822, y: 20.5}
+        - {x: -61.142822, y: -4.5}
+        - {x: -61.142822, y: -88.5}
+        - {x: -55.142822, y: -107.5}
+        - {x: 46.857178, y: -107.5}
+        - {x: 60.857178, y: -103.5}
+        - {x: 60.857178, y: -35.5}
+        - {x: 49.857178, y: 15.5}
+    - name: Tunica_Saltar_Detras_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.92871, y: 24.5}
+        - {x: -36.07129, y: 24.5}
+        - {x: -56.07129, y: 20.5}
+        - {x: -62.07129, y: -4.5}
+        - {x: -62.07129, y: -88.5}
+        - {x: -56.07129, y: -107.5}
+        - {x: 45.92871, y: -107.5}
+        - {x: 59.92871, y: -103.5}
+        - {x: 59.92871, y: -35.5}
+        - {x: 48.92871, y: 15.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

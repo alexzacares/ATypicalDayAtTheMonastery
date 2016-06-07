@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: c8b1cbe058b51d449b957b85e0fd17b4
+timeCreated: 1465053388
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Zapatillas_Lado_0
+    21300002: Sprites_Zapatillas_Lado_1
+    21300004: Sprites_Zapatillas_Lado_2
+    21300006: Sprites_Zapatillas_Lado_3
+    21300008: Sprites_Zapatillas_Lado_4
+    21300010: Sprites_Zapatillas_Lado_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Zapatillas_Lado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 506
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: -142.5}
+        - {x: -55.5, y: -146.5}
+        - {x: -55.5, y: -157.5}
+        - {x: -37.5, y: -168.5}
+        - {x: -25.5, y: -168.5}
+        - {x: -19.5, y: -166.5}
+        - {x: -19.5, y: -157.5}
+        - {x: -41.5, y: -142.5}
+      - - {x: 4.5, y: -133.5}
+        - {x: 3.5, y: -136.5}
+        - {x: 3.5, y: -148.5}
+        - {x: 12.5, y: -160.5}
+        - {x: 21.5, y: -160.5}
+        - {x: 23.5, y: -158.5}
+        - {x: 23.5, y: -143.5}
+        - {x: 19.5, y: -133.5}
+    - name: Sprites_Zapatillas_Lado_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 0
+        width: 506
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63.95703, y: -143.5}
+        - {x: 57.95703, y: -143.5}
+        - {x: 38.95703, y: -153.5}
+        - {x: 38.95703, y: -167.5}
+        - {x: 41.95703, y: -168.5}
+        - {x: 58.95703, y: -168.5}
+        - {x: 67.95703, y: -159.5}
+        - {x: 68.95703, y: -153.5}
+        - {x: 68.95703, y: -145.5}
+      - - {x: -62.04297, y: -142.5}
+        - {x: -62.04297, y: -149.5}
+        - {x: -59.04297, y: -151.5}
+        - {x: -41.04297, y: -151.5}
+        - {x: -41.04297, y: -120.5}
+        - {x: -53.04297, y: -120.5}
+        - {x: -59.04297, y: -126.5}
+    - name: Sprites_Zapatillas_Lado_2
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 506
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.914062, y: -149.5}
+        - {x: 11.9140625, y: -151.5}
+        - {x: 9.9140625, y: -153.5}
+        - {x: 9.9140625, y: -165.5}
+        - {x: 12.9140625, y: -168.5}
+        - {x: 32.914062, y: -168.5}
+        - {x: 42.914062, y: -167.5}
+        - {x: 45.914062, y: -159.5}
+        - {x: 45.914062, y: -150.5}
+        - {x: 41.914062, y: -149.5}
+      - - {x: -13.0859375, y: -132.5}
+        - {x: -13.0859375, y: -153.5}
+        - {x: -10.0859375, y: -162.5}
+        - {x: 1.9140625, y: -162.5}
+        - {x: 4.9140625, y: -160.5}
+        - {x: 4.9140625, y: -148.5}
+        - {x: 1.9140625, y: -133.5}
+        - {x: -2.0859375, y: -132.5}
+    - name: Sprites_Zapatillas_Lado_3
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 0
+        width: 506
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.128906, y: -145.5}
+        - {x: -30.128906, y: -145.5}
+        - {x: -33.128906, y: -148.5}
+        - {x: -33.128906, y: -159.5}
+        - {x: -31.128906, y: -164.5}
+        - {x: -21.128906, y: -168.5}
+        - {x: -8.128906, y: -168.5}
+        - {x: -2.1289062, y: -166.5}
+        - {x: -2.1289062, y: -159.5}
+        - {x: -6.1289062, y: -153.5}
+      - - {x: 11.871094, y: -130.5}
+        - {x: 1.8710938, y: -130.5}
+        - {x: 0.87109375, y: -133.5}
+        - {x: 0.87109375, y: -154.5}
+        - {x: 3.8710938, y: -157.5}
+        - {x: 11.871094, y: -157.5}
+        - {x: 14.871094, y: -154.5}
+        - {x: 14.871094, y: -131.5}
+    - name: Sprites_Zapatillas_Lado_4
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 0
+        width: 506
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.828125, y: -141.5}
+        - {x: 30.828125, y: -146.5}
+        - {x: 30.828125, y: -163.5}
+        - {x: 35.828125, y: -168.5}
+        - {x: 39.828125, y: -168.5}
+        - {x: 55.828125, y: -161.5}
+        - {x: 63.828125, y: -153.5}
+        - {x: 63.828125, y: -141.5}
+      - - {x: -26.171875, y: -118.5}
+        - {x: -35.171875, y: -129.5}
+        - {x: -35.171875, y: -143.5}
+        - {x: -32.171875, y: -145.5}
+        - {x: -23.171875, y: -145.5}
+        - {x: -15.171875, y: -135.5}
+        - {x: -15.171875, y: -121.5}
+        - {x: -22.171875, y: -118.5}
+    - name: Sprites_Zapatillas_Lado_5
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 0
+        width: 506
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.785156, y: -148.5}
+        - {x: 1.7851562, y: -151.5}
+        - {x: -1.2148438, y: -154.5}
+        - {x: -1.2148438, y: -164.5}
+        - {x: 4.7851562, y: -168.5}
+        - {x: 20.785156, y: -166.5}
+        - {x: 28.785156, y: -164.5}
+        - {x: 36.785156, y: -159.5}
+        - {x: 36.785156, y: -148.5}
+      - - {x: -21.214844, y: -118.5}
+        - {x: -26.214844, y: -124.5}
+        - {x: -26.214844, y: -149.5}
+        - {x: -25.214844, y: -150.5}
+        - {x: -13.214844, y: -150.5}
+        - {x: -10.214844, y: -143.5}
+        - {x: -10.214844, y: -119.5}
+        - {x: -11.214844, y: -118.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

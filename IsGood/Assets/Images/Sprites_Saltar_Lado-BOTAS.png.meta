@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 851cc66b03d8d55489048119b22ea912
+timeCreated: 1465103190
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites_Saltar_Lado-BOTAS_0
+    21300002: Sprites_Saltar_Lado-BOTAS_1
+    21300004: Sprites_Saltar_Lado-BOTAS_2
+    21300006: Sprites_Saltar_Lado-BOTAS_3
+    21300008: Sprites_Saltar_Lado-BOTAS_4
+    21300010: Sprites_Saltar_Lado-BOTAS_5
+    21300012: Sprites_Saltar_Lado-BOTAS_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1000
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprites_Saltar_Lado-BOTAS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: 116.5}
+        - {x: -49.5, y: 113.5}
+        - {x: -80.5, y: 62.5}
+        - {x: -63.5, y: -13.5}
+        - {x: -85.5, y: -64.5}
+        - {x: -85.5, y: -116.5}
+        - {x: -48.5, y: -137.5}
+        - {x: 15.5, y: -137.5}
+        - {x: 70.5, y: -109.5}
+        - {x: 70.5, y: 104.5}
+        - {x: 32.5, y: 116.5}
+    - name: Sprites_Saltar_Lado-BOTAS_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.57144, y: 117.5}
+        - {x: -40.42856, y: 117.5}
+        - {x: -46.42856, y: 114.5}
+        - {x: -72.42856, y: 96.5}
+        - {x: -72.42856, y: -112.5}
+        - {x: -12.428558, y: -138.5}
+        - {x: 46.57144, y: -138.5}
+        - {x: 83.57144, y: -121.5}
+        - {x: 83.57144, y: -27.5}
+        - {x: 76.57144, y: -10.5}
+        - {x: 83.57144, y: -0.5}
+        - {x: 83.57144, y: 56.5}
+    - name: Sprites_Saltar_Lado-BOTAS_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.64288, y: 67.5}
+        - {x: 21.642883, y: 121.5}
+        - {x: -53.357117, y: 121.5}
+        - {x: -78.35712, y: 96.5}
+        - {x: -78.35712, y: 15.5}
+        - {x: -72.35712, y: 5.5}
+        - {x: -43.357117, y: -42.5}
+        - {x: -74.35712, y: -115.5}
+        - {x: 1.6428833, y: -139.5}
+        - {x: 58.642883, y: -139.5}
+        - {x: 109.64288, y: -96.5}
+        - {x: 109.64288, y: -46.5}
+    - name: Sprites_Saltar_Lado-BOTAS_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.285645, y: 121.5}
+        - {x: -54.285645, y: 113.5}
+        - {x: -78.285645, y: 91.5}
+        - {x: -78.285645, y: -10.5}
+        - {x: -53.285645, y: -93.5}
+        - {x: 0.71435547, y: -132.5}
+        - {x: 14.714355, y: -139.5}
+        - {x: 47.714355, y: -139.5}
+        - {x: 105.714355, y: -115.5}
+        - {x: 105.714355, y: -21.5}
+        - {x: 97.714355, y: 3.5}
+        - {x: 73.714355, y: 71.5}
+        - {x: 18.714355, y: 121.5}
+    - name: Sprites_Saltar_Lado-BOTAS_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.78577, y: 33.5}
+        - {x: 81.78577, y: 89.5}
+        - {x: 25.785767, y: 121.5}
+        - {x: -49.214233, y: 121.5}
+        - {x: -78.21423, y: 96.5}
+        - {x: -78.21423, y: -9.5}
+        - {x: -49.214233, y: -93.5}
+        - {x: -7.2142334, y: -139.5}
+        - {x: 38.785767, y: -139.5}
+        - {x: 42.785767, y: -134.5}
+        - {x: 86.78577, y: -120.5}
+        - {x: 109.78577, y: -96.5}
+    - name: Sprites_Saltar_Lado-BOTAS_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.857178, y: 127.5}
+        - {x: -64.14282, y: 127.5}
+        - {x: -86.14282, y: 123.5}
+        - {x: -86.14282, y: -93.5}
+        - {x: -85.14282, y: -96.5}
+        - {x: -29.142822, y: -130.5}
+        - {x: 36.857178, y: -130.5}
+        - {x: 69.85718, y: -102.5}
+        - {x: 69.85718, y: -37.5}
+        - {x: 66.85718, y: -26.5}
+        - {x: 69.85718, y: 43.5}
+        - {x: 69.85718, y: 75.5}
+    - name: Sprites_Saltar_Lado-BOTAS_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.92871, y: 42.5}
+        - {x: 46.92871, y: 120.5}
+        - {x: 20.92871, y: 127.5}
+        - {x: -56.07129, y: 127.5}
+        - {x: -82.07129, y: 114.5}
+        - {x: -82.07129, y: -97.5}
+        - {x: -40.07129, y: -127.5}
+        - {x: -26.07129, y: -130.5}
+        - {x: 20.92871, y: -130.5}
+        - {x: 73.92871, y: -87.5}
+        - {x: 73.92871, y: 0.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
