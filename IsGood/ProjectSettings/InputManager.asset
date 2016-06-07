@@ -374,6 +374,22 @@ InputManager:
     axis: 1
     joyNum: 3
   - serializedVersion: 3
+    m_Name: MoveZ_P4
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: escape
+    altNegativeButton: 
+    altPositiveButton: joystick 4 button 8
+    gravity: 0
+    dead: 0.19
+    sensitivity: 1
+    snap: 0
+    invert: 1
+    type: 2
+    axis: 1
+    joyNum: 4
+  - serializedVersion: 3
     m_Name: MoveX_P2
     descriptiveName: 
     descriptiveNegativeName: 
@@ -406,6 +422,22 @@ InputManager:
     axis: 0
     joyNum: 3
   - serializedVersion: 3
+    m_Name: MoveX_P4
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: escape
+    altNegativeButton: 
+    altPositiveButton: joystick 4 button 8
+    gravity: 0
+    dead: 0.19
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 2
+    axis: 0
+    joyNum: 4
+  - serializedVersion: 3
     m_Name: Jump_P2
     descriptiveName: 
     descriptiveNegativeName: 
@@ -437,3 +469,19 @@ InputManager:
     type: 0
     axis: 0
     joyNum: 3
+  - serializedVersion: 3
+    m_Name: Jump_P4
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: escape
+    altNegativeButton: 
+    altPositiveButton: joystick 4 button 0
+    gravity: 0
+    dead: 0.19
+    sensitivity: 1
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 4
