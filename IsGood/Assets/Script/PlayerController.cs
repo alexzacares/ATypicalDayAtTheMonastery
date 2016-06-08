@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour {
 	public AudioSource audioRespawn;
 
 
-	//public GameObject ParticulaSpawn;
+	public ParticleSystem ParticulaSpawn;
 
 	void Start () {
 		isDead = false;
@@ -97,6 +97,8 @@ public class PlayerController : MonoBehaviour {
 		playerPosition.position = pointToSpawn.position;
 		isDead = false;
 		audioRespawn.Play ();
+		ParticulaSpawn.Play();
+
 		//Instantiate (ParticulaSpawn, new Vector3(0,0,0), Quaternion.identity);
 	}
 

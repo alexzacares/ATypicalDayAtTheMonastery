@@ -8,6 +8,8 @@ public class ControllerWinLevel : MonoBehaviour {
 	public Transform optionHover;
 	public GameObject p1;
 	public GameObject p2;
+	public GameObject p3;
+	public GameObject p4;
 
 	private int selected;
 	private Transform[] options;
@@ -26,8 +28,24 @@ public class ControllerWinLevel : MonoBehaviour {
 		print( "(" +  Save.playerWinner + " )Escena paso" );
 		if ( Save.playerWinner == 1) {
 			p1.SetActive (true);
+			p2.SetActive (false);
+			p3.SetActive (false);
+			p4.SetActive (false);
 		} else if ( Save.playerWinner == 2) {
+			p1.SetActive (false);
 			p2.SetActive (true);
+			p3.SetActive (false);
+			p4.SetActive (false);
+		}else if ( Save.playerWinner == 3) {
+			p1.SetActive (false);
+			p2.SetActive (false);
+			p3.SetActive (true);
+			p4.SetActive (false);
+		}else if ( Save.playerWinner == 4) {
+			p1.SetActive (false);
+			p2.SetActive (false);
+			p3.SetActive (false);
+			p4.SetActive (true);
 		}
 
 
